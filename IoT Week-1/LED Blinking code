@@ -1,0 +1,22 @@
+// C++ code
+int LED_Pin=10;
+int buttonState=0;
+void setup()
+{
+  pinMode(LED_Pin, OUTPUT);
+  pinMode(buttonState, INPUT_PULLUP);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  buttonState=digitalRead(2);
+  Serial.println(buttonState);
+  if (buttonState==1){
+    
+  digitalWrite(LED_Pin, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_Pin, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+  }
+}
