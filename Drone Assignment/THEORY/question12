@@ -1,0 +1,33 @@
+Ques12: Explain the complete signal flow in a drone ?
+Signal Flow in a Drone - 
+Pilot Input : The pilot gives commands using the remote controller.
+Radio Transmitter: Sends the pilot’s commands wirelessly.
+Radio Receiver: receives the signals on the drone.
+Flight Controller: Processes the signals and decides how the drone should move.
+ESC (Electronic Speed Controller): Controls the speed of each BLDC motor.
+BLDC Motors: Rotate the properties.
+Propellers: Produce lift and thrust.
+Drone Movement: The drone takes off, lands, hovers, or moves in different directions.
+Simple Block Diagram:
+                                   Pilot Input
+                                         │
+                                         ▼
+                            Radio Transmitter
+                                         │
+                                         ▼
+                              Radio Receiver
+                                         |
+                                       ▼
+                              Flight Controller
+                                        │
+                                       ▼
+                                      ESC
+                                        │
+                                       ▼
+                               BLDC Motors
+                                        │
+                                       ▼
+                                 Propellers
+                                        │
+                                        ▼
+                            Drone Movement
