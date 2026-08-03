@@ -1,0 +1,13 @@
+Ques15: Activity:- Identify and Label the Components of a Drone
+Components and their Functions:
+Flight Controller – Controls and stabilizes the drone.
+ESC (Electronic Speed Controller) – Controls the speed of the motors.
+BLDC Motors – Rotate the propellers.
+Propellers – Generate lift and thrust.
+Li-Po Battery – Supplies power to the drone.
+GPS Module – Provides location and navigation.
+Radio Receiver – Receives signals from the remote controller.
+Frame – Holds all the drone components together.
+Camera – Captures photos and videos.
+Telemetry Module – Sends flight data to the ground station.
+Observations: All these components work together to help the drone take off, hover, move, navigate, and land safely.
