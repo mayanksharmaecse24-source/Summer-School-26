@@ -1,0 +1,41 @@
+Ques8: Explain the working principle and application of the following sensors ?
+Sensor                    : IMU
+         Purpose                 : Measures movement
+         Working Principle : Uses accelerometer + gyroscope
+         Application            : Keep drone stable
+Sensor                    : Accelerometer
+         Purpose                 : Detects tilt
+         Working Principle : Measures acceleration
+         Application            : Balancing the drone
+ Sensor                   : Gyroscope
+         Purpose                 : Detects rotation
+         Working Principle : Measures angular movement
+         Application            : Controls roll, pitch & yaw
+ Sensor                   : Magnetometer
+         Purpose                 :  Finds directions   
+         Working Principle : Detects Earth’s magnetic field
+         Application            : Navigation
+ Sensor                   : Barometer
+         Purpose                 :  Measures altitude
+         Working Principle :  Measures air pressure
+         Application            : Height control
+ Sensor                   : GPS
+         Purpose                 : Finds location
+         Working Principle : Uses satellite signals
+         Application            : Navigation & Return to Home
+Sensor                    : Optical Flow Sensor  
+         Purpose                 :  Detects ground movement 
+         Working Principle :  Uses camera
+         Application            : Indoor hovering
+ Sensor                   : Ultrasonic Sensor
+         Purpose                 :  Measures distance  
+         Working Principle :  Uses sound waves
+         Application            : Obstacle detection
+ Sensor                    :LiDAR
+         Purpose                 : Measures distance
+         Working Principle : Uses laser beams
+         Application            : 3D mapping
+ Sensor              :  Camera 
+         Purpose                 : Captures images
+         Working Principle : Records photos/videos
+         Application            : Photography & surveillance
