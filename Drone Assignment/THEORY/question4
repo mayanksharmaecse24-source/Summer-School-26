@@ -1,0 +1,24 @@
+Ques4: How does a quadcopter fly?
+A quadcopter flies using 4 brushless motors and 4 propellers.
+→ The propellers spin and produce ligt, which pushes the drone upward.
+→ Gravity pulls the drone downward.
+→ When lift is greater than gravity, the drone takes off.
+→ Thrust is the force that moves the drone up, down, or forward.
+→ Drag is the air resistance that slows down the drone.
+→ Two propellers rotate clockwise (CW).
+→ The other two rotate counter-clockwise (CCW).
+→ CW and CCW rotation balance the drone and stop it from spinning.
+→ The flight controller changes the speed of each motor to control movement.
+→ By increasing or decreasing motor speed, the drone can take off, hover, move in different directions, and land.
+                                                      Front
+                                             CW                CCW
+                                                ○---------○
+                                                |                     |
+                                                |         ↑         |   Lift
+                                                |                     |
+                                                ○---------○
+                                             CCW                CW
+                                                        Back
+↓ Gravity
+→ Thrust (Movement)
+← Drag (Air Resistance)
