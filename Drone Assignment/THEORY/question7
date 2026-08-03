@@ -1,0 +1,11 @@
+Ques7: Explain the role of the following components ?
+Flight controller - It is the brain of the drone. It controls the drone and keeps it stable.
+ESC (Electronic Speed Controller) - It controls the speed of each BLDC motor according to the flight controller’s commands.
+BLDC (Brushless DC) Motor - It rotates the propellers and produces the power needed for flight.
+Propellers - It creates lift and thrust, helping the drone fly and move.
+Li-Po Battery  - It supplies electrical power to all the drone components.
+GPS - It provides the drone’s location and helps in navigation and Return-to-Home.
+Radio Transmitter - It is the Remote controller used by the pilot to send commands to the drone.
+Frame - It is the main body of the drone that holds all the components together.
+Battery Eliminator Circuit (BEC) - It provides the correct voltage to electronic components like the flight controller and receiver.
+   10. Telemetry Module - It sends live information such as battery level, speed, height, and GPS location from the drone21 to the ground station.
