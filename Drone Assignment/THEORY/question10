@@ -1,0 +1,27 @@
+Ques10: Explain the concept of 6 Degrees of Freedom (6DOF) ?
+6 Degrees of Freedom (6DOF) means a drone can move in 6 different ways. These are divided into 3 translations and 3 rotations.
+Translations (Linear Movement):
+X-axis (surge): Moves forward and backward.
+Y-axis (Sway): Moves left and right.
+Z-axis (Heave): Moves up and down.
+Rotations (Angular Movement):
+Roll: Tilts left or right.
+Pitch: Tilts forward or backward.
+Yaw: Rotates left or right.
+Simple Diagram
+                                                  Z (Up/Down)
+                                                           ↑
+                                                            |
+                                                           ●
+                                                         / | \
+                                                        /  |  \
+                                       Y ←------    ------→ Y
+                                                     (Drone)
+                                                           |
+                                                           |
+                                                          ↓
+                                        X (Forward/Backward)
+Roll  → Tilt Left/Right
+Pitch → Tilt Forward/Backward
+Yaw   → Rotate Left/Right
+Conclusion: 6DOF allows the drone to move freely in all directions and perform stable flight.
