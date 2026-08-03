@@ -1,0 +1,27 @@
+Ques11: Explain roll, pitch, yaw, surge, sway, and heave with examples ?
+Roll:
+→ Roll means the drone tilts left or right.
+→ Example: The drone tilts to the left while turning.
+Pitch:
+→ Pitch means the drone tilts forward or backward.
+→ Example: The drone tilts forward to move ahead
+Yaw:
+→ Yaw means the drone rotates left or right without changing its position.
+→ Example: The drone turns to face another direction.
+Surge:
+→ Surge means the drone moves forward and backward.
+→ Example: The drone flies straight towards a target.
+Sway:
+→ Sway means the drone moves left or right.
+→ Example: The drone Moves sideways to avoid an obstacle.
+Heave:
+→ Heave means the drone moves up or down.
+→ Example: The drone rises during take-off and comes down while landing.
+                                                 Heave
+                                                  ↑ ↓
+                                    Sway ←   🚁   → Sway
+                                               ↑ Surge
+                                                    ↓
+Roll  ↔ Tilt Left/Right
+Pitch ↕ Tilt Forward/Backward
+Yaw   ↺ ↻ Rotate Left/Right
