@@ -1,0 +1,11 @@
+Ques14: Research Questions ?
+How do drones return to home automatically ?
+→ Drones use GPS to record the take-off location.
+→ If the battery is low or the signal is lost, the Return-to-Home (RTH) feature starts automatically.
+→ The drone files back to the saved location.
+→ It lands safely without the pilot’s control.
+Explain obstacle avoidance in drones ?
+→ Obstacle avoidance helps the drone detect and avoid obstacles.
+→ It uses sensors like LiDAR, Ultrasonic, Cameras, and Optical Flow.
+→ When an obstacle is detected, the drone slows down, stops, or changes its direction.
+→ This prevents accidents and makes flying safer.
