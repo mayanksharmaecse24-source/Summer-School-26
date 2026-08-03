@@ -1,0 +1,35 @@
+Ques5: Explain how a drone performs take-off, landing, hovering, move forward, move backward, move left, move right, and rotate (yaw) ?
+Take - off:
+→ All four motors spin faster.
+→ The drone goes upward.
+Landing:
+→ All motors slow down.
+→ The drone comes down safely.
+Hovering:
+→ All four motors spin at the same speed.
+→ The drone stays at one place in the air.
+Move Forward:
+→ Back motors spin faster than front motors.
+→ The drone moves forward.
+Move Backward:
+→ Front motors spin faster than back motors.
+→ The drone moves backward.
+Move Left:
+→ Right-side motors spin faster.
+→ The drone moves left.
+Move Right:
+→ Left-side motors spin faster.
+→ The drone moves right.
+Rotate (Yaw):
+→ CW and CCW motors change their speed.
+→ The drone rotates left or right without changing its position.
+                                                 ↑
+                                                 Take-off 
+                                       ← Left                Right →
+                                                   ⬤ Hover
+                                                         ↓
+                                                    Landing
+                                Forward ↑
+                                Backward ↓
+                                Yaw ↺ (Left Turn)
+                                Yaw ↻ (Right Turn)
