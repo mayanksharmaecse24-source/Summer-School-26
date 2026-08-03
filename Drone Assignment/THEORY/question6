@@ -1,0 +1,40 @@
+Ques6: Draw a labeled diagram of a drone and explain the function of each component ?
+→ BLOCK DIAGRAM:
+      Radio Transmitter
+               │
+               ▼
+        Radio Receiver
+               │
+               ▼
+      Flight Controller
+        │            │
+       ▼            ▼
+    GPS Module   Telemetry Module
+        │
+        ▼
+  Power Distribution Board
+        │
+     Battery (Li-Po)
+        │
+        ▼
+        ESC
+        │
+        ▼
+  Brushless Motors
+        │
+        ▼
+     Propellers
+        │
+        ▼
+     Drone Frame
+Functions of Components:
+Flight controller - It is the brain of the drone. It controls all drone movements.
+ESC (Electronic Speed Controller) - It controls the speed of each motor.
+Brushless Motors - They rotate the propellers tto produce lift.
+Propellers - They generate lift and thrust to make the drone fly.
+Battery (Li-Po) - It supplies power to all drone components.
+Power Distribution Board (PDB) - It distributes power from the battery to different parts.
+GPS Module - It gives the drone its location and helps in navigation.
+Radio Receiver - It receives signals from the remote controller.
+Frame - It is the body of the drone that holds all components together.
+   10. Telemetry Module - It sends drone data (battery, speed, location, height) to the ground station.
