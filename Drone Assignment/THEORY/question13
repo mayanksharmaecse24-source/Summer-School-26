@@ -1,0 +1,12 @@
+Ques13: Why is PID control important in drones? Explain the Proportional, Integral and Derivative terms.
+→ PID (Proportional, Integral, Derivative) is a control system that helps a drone fly smoothly, accurately, and stably. It keeps the drone balanced and corrects any unwanted movement caused by wind or sudden changes.
+Proportional (P):
+→ Correct the error based on its current value.
+→ It helps the drone maintain the correct position.
+Integral (I):
+→ Corrects errors that remain for a long time.
+→ It helps the drone maintain the correct position.
+Derivative (D):
+→ Predicts future errors and reduces sudden movements.
+→ It makes the drone fly smoothly without shaking.
+Conclusion: PID control improves the drone’s stability, balance, and flight accuracy
