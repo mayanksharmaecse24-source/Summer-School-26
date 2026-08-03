@@ -1,0 +1,22 @@
+Ques9: Compare:
+(a). GPS vs Optical Flow
+               GPS
+→ Use satellites to find location.
+→ Works best outdoors.
+              Optical Flow
+→ Uses a camera to track ground movement.
+→ Works best indoors or at low height.
+(b). LiDAR vs Ultrasonic:
+              LiDAR
+→ Uses laser beams.
+→ More accurate and long range.
+              Ultrasonic
+→ Uses sound waves.
+→ Less accurate and short range.
+(c). Gyroscope vs Accelerometer:
+               Gyroscope
+→ Measure rotation.
+→ Controls roll, pitch, and yaw.
+                Accelerometer
+→ Measures acceleration and tilt.
+→ Helps maintain balance and detects movement.
